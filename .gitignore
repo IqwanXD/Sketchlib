@@ -1,0 +1,21 @@
+# Gradle & Android build output
+.gradle/
+build/
+*/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Local machine settings (jangan di-commit)
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Artefak build & kunci signing
+*.apk
+*.aab
+*.jks
+*.keystore
